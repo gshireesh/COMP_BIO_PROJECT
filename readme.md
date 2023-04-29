@@ -15,3 +15,6 @@ pip install -r requirements.txt
 [custom implementation](./clustering_using_sklearn.ipynb)
 
 [sklearn implementation](./Kmeans custom implementation.ipynb)
+
+![clustering](clustering.png)
+![Result](result.png)
