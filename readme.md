@@ -12,9 +12,9 @@ pip install -r requirements.txt
 
 ### Kmeans of gene expression
 
-[custom implementation](./clustering_using_sklearn.ipynb)
+[sklearn implementation](./clustering_using_sklearn.ipynb)
 
-[sklearn implementation](./kmeans_custom_implementation.ipynb)
+[custom implementation](./kmeans_custom_implementation.ipynb)
 
 ![clustering](clustering.png)
 ![Result](result.png)
