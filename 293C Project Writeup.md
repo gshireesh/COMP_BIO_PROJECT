@@ -59,6 +59,7 @@ are adjusted to come up with the right groupings of the data. producing the foll
 ```
 
 ![clustering](clustering.png)
+
 ![Result](result.png)
 
 ### 6. Suggest some “future directions”: questions related to your project that someone who
