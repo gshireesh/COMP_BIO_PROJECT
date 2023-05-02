@@ -1,5 +1,10 @@
 <img width="833" alt="Screen Shot 2023-05-02 at 6 07 20 AM" src="https://user-images.githubusercontent.com/6884370/235675185-a040ce28-85aa-4699-8081-75bb449149f7.png">
 
+## Project repository
+
+https://github.com/gshireesh/COMP_BIO_PROJECT.git
+
+
 ### 1. State topic you chose for your project
 
 ```
